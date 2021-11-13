@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e6067afe1735a4edd9c2afd6648734b9
+timeCreated: 1523439626
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: UTM Loko
+  fontNames:
+  - UTM Loko
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 97d48bb6c964749cead1180035ac568c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
